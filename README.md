@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ângelo</h1>
 <h3 align="center">I'm a backend developer from Brazil</h3>
 
-- 🔭 I’m currently working on [Game-box](https://github.com/angelo7890/GameBox-api)
-
 - 🌱 I’m currently learning **Java, Spring-boot**
 
 - 👨‍💻 All of my projects are available at [https://github.com/angelo7890](https://github.com/angelo7890)
